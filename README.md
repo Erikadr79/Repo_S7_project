@@ -13,8 +13,9 @@ Este proyecto es una aplicacion web interactiva creada con Streamlit que permite
 - Interfaz sencilla y fácil de usar casillas de verificación para mostrar los gráficos según la selección del usuario.
 
 ## Como ejecutar la aplicación
-1. Clonar el repositorio en tu maquina local:
 ```sh
+1. Clonar el repositorio en tu maquina local:
+
 git clone <URL_DEL_REPOSITORIO>
 CD <NOMBRE_DEL_PROYECTO>
 
@@ -25,6 +26,9 @@ pip install -r requirements.txt
 3. Ejecutar la aplicación:
 
 streamlit run app.py
+
+4. Abrir en el navegador el enlace que aparece en la terminal, por defecto http://localhost:8501.
+
 
 
 
