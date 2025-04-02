@@ -29,4 +29,9 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-4. Abrir en el navegador el enlace que aparece en la terminal, por defecto http://localhost:8501.
+4. Abrir en el navegador el enlace: 
+
+https://repo-s7-project.onrender.com
+
+
+
