@@ -15,7 +15,7 @@ Este proyecto es una aplicacion web interactiva creada con Streamlit que permite
 - Interfaz sencilla y fácil de usar casillas de verificación para mostrar los gráficos según la selección del usuario.
 
 ## Como ejecutar la aplicación
-```sh
+
 1. Clonar el repositorio en tu maquina local:
 
 git clone <URL_DEL_REPOSITORIO>
