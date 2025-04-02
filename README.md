@@ -8,8 +8,10 @@ Este proyecto es una aplicacion web interactiva creada con Streamlit que permite
 ## Funcionalidades
 - Carga y visualización de datos de anuncios de vehiculos.
 - Generación de graficos interactivos utilizando Plotly.
-**Histograma** del odómetro para analizar el Kilometraje de los coches.
-**Gráfico de Dispersión** que muestra la relacion entre el odometro y el precio de los vehículos.
+
+- **Histograma** del odómetro para analizar el Kilometraje de los coches.
+
+- **Gráfico de Dispersión** que muestra la relacion entre el odometro y el precio de los vehículos.
 - Interfaz sencilla y fácil de usar casillas de verificación para mostrar los gráficos según la selección del usuario.
 
 ## Como ejecutar la aplicación
