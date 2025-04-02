@@ -18,8 +18,9 @@ Este proyecto es una aplicacion web interactiva creada con Streamlit que permite
 
 1. Clonar el repositorio en tu maquina local:
 
-git clone <URL_DEL_REPOSITORIO>
-CD <NOMBRE_DEL_PROYECTO>
+git clone https://github.com/tu-usuario/tu-repositorio.git
+
+CD tu-repositorio
 
 2. Instalar las Dependencias necesarias:
 
@@ -29,7 +30,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-4. Abrir en el navegador el enlace: 
+4. Abrir en el navegador el enlace para visualizar la Web Service:
 
 https://repo-s7-project.onrender.com
 
