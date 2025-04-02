@@ -9,10 +9,6 @@ st.header('Aplicación basada en Streamlit')
 # Leer el archivo CSV
 car_data = pd.read_csv('vehicles_us.csv')
 
-# Crear botones para generar gráficos
-#hist_button = st.button('Construir histograma')
-#scat_button = st.button('Construir gráfico de dispersión')
-
 # Casillas de verificación para mostrar gráficos
 show_hist = st.checkbox('Construir histograma')
 show_scatter = st.checkbox('Construir gráfico de dispersión')
