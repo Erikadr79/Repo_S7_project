@@ -14,7 +14,7 @@ Este proyecto es una aplicacion web interactiva creada con Streamlit que permite
 
 ## Como ejecutar la aplicación
 1. Clonar el repositorio en tu maquina local:
-
+```sh
 git clone <URL_DEL_REPOSITORIO>
 CD <NOMBRE_DEL_PROYECTO>
 
